@@ -1,8 +1,13 @@
 #container{
     width:90%;
+    display: flex;
+    background-color: red;
 }
 
-
+#header{
+  color: white;
+  background-color: black;
+}
 
 #primera{
   color: white;
