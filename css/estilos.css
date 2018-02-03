@@ -1,24 +1,20 @@
-.container{
+#container{
     width:90%;
 }
 
-.header{
-  color: white;
-  background-color: black;
-  height:150px;
-}
 
-.primera{
+
+#primera{
   color: white;
   background-color: pink;
 }
 
-.segunda-tercera{
+#segunda-tercera{
   color: white;
   background-color: blue;
 }
 
-.pie{
+#pie{
   color: white;
   background-color: orange;
 }
