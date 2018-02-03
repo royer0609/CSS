@@ -1,17 +1,30 @@
 #container{
-    width:90%;
+    width:90vw;
+    height: 90vh;
     display: flex;
+    flex-wrap: wrap;
     background-color: red;
 }
 
 #header{
   color: white;
   background-color: black;
+  width: inherit;
+  height: 20%;
+}
+
+#container-body{
+  width: inherit;
+  display: block;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 #primera{
   color: white;
   background-color: pink;
+  width: 70%;
+
 }
 
 #segunda-tercera{
