@@ -3,6 +3,11 @@
   padding: 0;
 }
 
+#container{
+  display: flex;
+  flex-direction: column;
+}
+
 .header{
   background-color:  #5b7989;
 }
