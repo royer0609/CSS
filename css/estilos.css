@@ -58,3 +58,14 @@
   color:black;
   border-radius: 10px;
 }
+
+.imagen1 div{
+  display: block;
+  background-color: green;
+  text-align: center;
+  padding: 10px;
+}
+
+.imagen1 div img{
+  width: 30%;
+}
