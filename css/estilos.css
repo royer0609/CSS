@@ -61,11 +61,38 @@
 
 .imagen1 div{
   display: block;
-  background-color: green;
+
   text-align: center;
   padding: 10px;
 }
 
 .imagen1 div img{
   width: 30%;
+}
+
+.otrasimg{
+  display: flex;
+  
+}
+
+.imgseg{
+  padding: 10px;
+
+  text-align: center;
+  width: 50%;
+}
+
+.imgseg img{
+  width: 40%;
+}
+
+.imgter{
+  padding: 10px;
+
+  text-align: center;
+  width: 50%;
+}
+
+.imgter img{
+  width: 40%;
 }
