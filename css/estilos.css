@@ -104,6 +104,8 @@ img{
   transform: translate(20px, -5px);
 }
 
+
+
 @-webkit-keyframes slidein {
 	0%{
 		margin-top: 150%;
