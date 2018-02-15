@@ -104,7 +104,46 @@ img{
   transform: translate(20px, -5px);
 }
 
+footer{
+  display: inline-flex;
+  justify-content: space-around;
+  width: 100%;
+  background-color:  #C6d5c5;
+  border-radius: 0 0 10px 10px;
+}
 
+#contacto, #terminos, #redes, #derechos{
+  width: 25%;
+  height:inherit; 
+
+}
+
+#contacto{
+
+
+}
+
+h3,p{
+  padding: 5px;
+
+}
+
+#redes img{
+  width: 20%;
+  border-radius: 10px;
+}
+
+#terminos{
+
+}
+
+#redes{
+
+}
+
+#derechos{
+
+}
 
 @-webkit-keyframes slidein {
 	0%{
